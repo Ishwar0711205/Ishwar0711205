@@ -1,0 +1,34 @@
+import java.util.*;
+class AreaCal
+{
+void area()
+{
+double r,a;
+Scanner sc=new Scanner(System.in);
+r=sc.nextInt();
+a=r*r*Math.PI;
+System.out.println("Area of cirlce ="+a);
+}
+void area(int s)
+{
+int a;
+a=s*s;
+System.out.println("Area of square ="+a);
+}
+void area(double l,double b)
+{
+double a;
+a=l*b;
+System.out.println("Area of rectangle ="+a);
+}
+}
+class Demoo
+{
+public static void main (String args[])
+{
+Adder c1=new Adder();
+c1.area();
+c1.area(2);
+c1.area(1.2,2.3);
+}
+}
