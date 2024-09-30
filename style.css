@@ -1,0 +1,107 @@
+
+
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column; /* added to stack elements vertically */
+  }
+  
+  .loading {
+    max-width: 50%;
+    line-height: 1.4;
+    font-weight: bold;
+    display: block;
+    font-size: 1.2rem;
+    text-align: center;
+    color: black; /* changed text color to grey */
+    margin-bottom: 20px; /* added space between text and circle */
+  }
+  
+  .loading__author {
+    font-weight: normal;
+    color: grey;
+    /* no styles defined, so I'll leave it empty for now */
+  }
+  
+  .loading__anim {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 50%; /* changed to circle shape */
+    border: 5px solid rgba(189, 189, 189, 0.25);
+    border-top-color: rgba(3, 155, 229, 1);
+    animation: rotate 600ms infinite linear;
+    color: grey;
+  }
+  
+  @keyframes rotate {
+    from {
+      transform: rotate(0turn);
+    }
+    to {
+      transform: rotate(1turn);
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  try this failed some time */
+
+/* body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.loading {
+  max-width: 50%;
+
+  line-height: 1.4;
+  font-weight: bold;
+  display: block;
+  font-size: 1.2rem;
+}
+
+.loading__author{
+
+}
+
+.loading__anim {
+  width: 35px;
+  height: 35px;
+  display: inline-block;
+  border: 5px solid rgba(189, 189, 189, 0.25);
+  border-left-color: rgba(3, 155, 229, 1);
+  border-top-color: rgba(3, 155, 229, 1);
+
+  
+}
+
+
+@keyframes rotate {
+    to {
+      transform: rotate(1turn);
+  
+      animation: rotate 600ms infinite linear;
+    }
+  }
+ */
+
