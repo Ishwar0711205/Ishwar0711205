@@ -5,7 +5,7 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Python+Developer;Learning+Data+Structures+%26+Algorithms;Building+Real-World+AI+Applications;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Python+Developer;AI+Explorer;Problem+Solver" alt="Typing animation" />
 </p>
 
 ---
@@ -16,9 +16,9 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 
 📍 Navi Mumbai, Maharashtra, India
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Python and Software Development**
+💡 Passionate about **Artificial Intelligence, Machine Learning, Python, and Software Development**.
 
-🌱 Currently improving my skills in
+🌱 Currently improving my skills in:
 
 - Data Structures & Algorithms
 - Machine Learning
@@ -37,7 +37,7 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
 ---
@@ -45,12 +45,12 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 ### 🤖 Machine Learning & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
 ---
@@ -58,11 +58,11 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 ### 🌐 Visualization & Development
 
 <p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Final Year B.Tech Information Technology Student | Machine Learning Enthusiast |
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 Google Colab • Jupyter Notebook
@@ -101,7 +101,7 @@ Python • TensorFlow • Keras • Streamlit
 
 ## 🌍 Air Pollution Monitoring System
 
-Real-time dashboard for monitoring **NO₂, CO and AQI** using geospatial visualization.
+Real-time dashboard for monitoring **NO₂, CO, and AQI** using geospatial visualization.
 
 **Tech Stack**
 
@@ -113,7 +113,7 @@ Python • Plotly • GeoPandas • QGIS • AQICN API
 
 Designed responsive UI/UX prototypes using Figma.
 
-Features
+**Features**
 
 - Auto Layout
 - Components
@@ -125,52 +125,9 @@ Features
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishwar0711205&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar0711205&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishwar0711205&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar0711205&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar0711205&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwar0711205&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ishwar0711205&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# 💻 Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Python
-- Software Development
-- Open Source
 
 ---
 
@@ -187,41 +144,25 @@ Features
 # 🌐 Connect With Me
 
 <p>
+  <a href="mailto:ishwargarje07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:ishwargarje07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ishwar-garje-0125882a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ishwar-garje-0125882a8">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Ishwar0711205">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://codolio.com/profile/godx07">
-<img src="https://img.shields.io/badge/Codolio-00C853?style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/Ishwar0711205">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Fun Fact
-
-> "I enjoy solving real-world problems with Machine Learning while continuously improving my coding and software development skills."
-
----
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ishwar0711205&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Ishwar0711205&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-
-⭐ Thanks for visiting my GitHub profile!
-
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
